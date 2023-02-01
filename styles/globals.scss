@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 18px;
 }
 
@@ -26,9 +26,9 @@ body {
 		height: 45em;
 		left: 42.4em;
 		top: 0;
-    background: #9BEAE0;
+    	background: #9BEAE0;
 		z-index: -1;
-    transform: skew(-5deg);
+    	transform: skew(-5deg);
 	}
 
 	.person {
@@ -169,7 +169,7 @@ body {
 			gap: 0.5em;
 
 			h4 {
-        padding: 0;
+        		padding: 0;
 				margin-top: 0;
 				margin-bottom: 0;
 				margin-right: auto;
@@ -197,7 +197,7 @@ body {
 
 	.bottom-container {
 		display: flex;
-    justify-content: center;
+    	justify-content: center;
 		flex-direction: row;
 		padding: 2.2em;
 		gap: 1.7em;
